@@ -10,6 +10,8 @@ invalidate notification for the item to the cache before updating it in the data
     3. The application has each server on a docker container than can be easily be downloaded and deployed. For simple state level consensus, primary backup
 with fault recovery is used and Raft consensus protocol has been implemented for log level consensus.
 
+- **Implemented DApp for Nim game server on Ethereum Solidity**  
+
 - **Wind Turbine Performance monitoring using logistic regression**  
 	Prof. Rajesh Wadhvani, NIT Bhopal
 	1. Employed monitoring based approach by generating power curves using four parameter and five parameter logistic regression and mahalanobis distance.
