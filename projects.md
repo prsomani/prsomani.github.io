@@ -11,6 +11,7 @@ invalidate notification for the item to the cache before updating it in the data
 with fault recovery is used and Raft consensus protocol has been implemented for log level consensus.
 
 - **Implemented DApp for Nim game server on Ethereum Solidity.**
+
 - **Implemented simple blockchain in python that combines the ideas of proof-of-work, transactions, blocks, and blockchains**  
 	1. Implemented APIs for different functionalities like validating block and transactions, creating the merkle tree, keeping track of the UTXOs, getting tip of the blochain and so on.
     
