@@ -10,6 +10,10 @@ invalidate notification for the item to the cache before updating it in the data
     3. The application has each server on a docker container than can be easily be downloaded and deployed. For simple state level consensus, primary backup
 with fault recovery is used and Raft consensus protocol has been implemented for log level consensus.
 
+- **Implemented HATESPEECH Detection using BERT**  
+	1. Employed transfer learning using the  BERT  model  and  fine  tuning  it  for downstream  task  of  hate  speech  detection.
+    2. The model achieved 90 \% accuracy on Twitter hatespeech test data.
+   
 - **Implemented DApp for Nim game server on Ethereum Solidity.**
 
 - **Implemented simple blockchain in python that combines the ideas of proof-of-work, transactions, blocks, and blockchains**  
